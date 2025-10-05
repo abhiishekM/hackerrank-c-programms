@@ -10,7 +10,7 @@ int main()
 
     //just a trial for hacktoberfest, hehe
     for(j=0;j<n;++j){
-        sum=sum+a[j];
+        sum=sum+a[j];//hiii
     }
     printf("%d",sum);
 //trial only trial.hehe
