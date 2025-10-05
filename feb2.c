@@ -13,5 +13,6 @@ int main()
         sum=sum+a[j];
     }
     printf("%d",sum);
+//trial only trial.hehe
     return 0;
 }
